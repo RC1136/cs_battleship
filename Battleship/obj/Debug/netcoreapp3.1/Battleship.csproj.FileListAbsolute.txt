@@ -1,0 +1,9 @@
+F:\projects\Battleship\Battleship\bin\Debug\netcoreapp3.1\Battleship.deps.json
+F:\projects\Battleship\Battleship\bin\Debug\netcoreapp3.1\Battleship.dll
+F:\projects\Battleship\Battleship\bin\Debug\netcoreapp3.1\Battleship.pdb
+F:\projects\Battleship\Battleship\obj\Debug\netcoreapp3.1\Battleship.csprojAssemblyReference.cache
+F:\projects\Battleship\Battleship\obj\Debug\netcoreapp3.1\Battleship.AssemblyInfoInputs.cache
+F:\projects\Battleship\Battleship\obj\Debug\netcoreapp3.1\Battleship.AssemblyInfo.cs
+F:\projects\Battleship\Battleship\obj\Debug\netcoreapp3.1\Battleship.csproj.CoreCompileInputs.cache
+F:\projects\Battleship\Battleship\obj\Debug\netcoreapp3.1\Battleship.dll
+F:\projects\Battleship\Battleship\obj\Debug\netcoreapp3.1\Battleship.pdb
